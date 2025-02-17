@@ -43,4 +43,4 @@ This repository includes a range of JavaScript exercises focusing on:
 
 ## 📚 Assignments
 
-To start practicing JavaScript, check out the [assignments here](./assignments.md).
+To start practicing JavaScript, check out the [assignments here]https://docs.google.com/document/d/1xIaTl6Sfs23GZsYXN6a7sPF03vdJlEXIxrgZvqHVed8/edit?usp=sharing.

@@ -241,3 +241,17 @@ let ans7=test.myReduce((prev,currVal)=>{
     return prev+currVal
 },0)
 console.log(ans7);
+
+test.reverse();
+console.log(test);
+
+Array.prototype.myReverse=function(){
+    let ans=[];
+    for(let i=this.length-1;i>=0;i--)
+    {
+        ans.push(this[i]);
+    }
+    return ans;
+}
+let solu=test.myReverse()
+console.log(solu);

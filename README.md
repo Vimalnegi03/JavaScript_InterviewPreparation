@@ -49,3 +49,5 @@ To start practicing JavaScript, check out the [day2 here 2]https://docs.google.c
 
 To start practicing JavaScript, check out the [day3 here 3]https://docs.google.com/document/d/1NZRTre91z_AAJDMTdzhEC0YNTQGv1kY_r2Zxm_JRmFc/edit?usp=sharing
 
+To start practicing JavaScript, check out the [day4 here 4]https://docs.google.com/document/d/1z3qoR_tcOLvfrpY7yUtFx4PJFmw58I_c_G9EWdNLzuo/edit?usp=sharing
+
